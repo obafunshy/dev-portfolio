@@ -6,6 +6,11 @@
     justify-content: center;
 }
 
+.bSXpun.active {
+    background: #3D84C6;
+    color: #fff;
+}
+
 @media only screen and (max-width: 578px) {
     div.vertical-item-row > div:nth-child(1) {
         width: 20% !important;

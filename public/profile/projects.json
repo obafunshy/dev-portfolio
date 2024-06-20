@@ -22,26 +22,19 @@
         },
         {
             "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Consumer Choices",
+            "bodyText": "-  designed, developed and maintain the plugin wizard from the request button on the homepage.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://www.consumer-choices.co.uk"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
+                "Wordpress",
+                "PHP",
                 "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "VueJs"
             ]
         },
         {

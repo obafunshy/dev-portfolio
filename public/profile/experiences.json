@@ -1,33 +1,44 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Web Developer",
+            "subtitle": "Consumer Choices",
+            "workType": "Hybrid",
+            "workDescription": [
+                "Collaborated with the development team on a daily basis to implement enhancements for overall functionality across the company's managed websites. This involved communication through Microsoft Teams, GitHub, and Jira.",
+                "Took part in developing custom WordPress wizard plugins aimed at enhancing the frontend user experience and introducing additional lead information features, and also the improvement of cookie functionality.",
+                "Boosted the loading speed of the company's websites by meticulously addressing each suggestion from Google PageSpeed Insights, working on the render-blocking, minifying the CSS, JS and a lot more."
+
+            ],
+            "dateText": "05/2023 – 08/2023"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Cowebplus System Solutions",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Led the development and customization of WordPress themes for small-scale businesses.",
+                "Conducted client meetings to gather project requirements and translated them into system specifications.",
+                "Collaborated with content writers and graphic designers to create SEO-optimized, visually appealing websites.",
+                "Managed website maintenance, including speed optimization, performance checks, and regular updates.",
+                "Designed and developed WooCommerce websites and implemented secure payment systems.",
+                "Led a team of developers and designers, ensuring project progress and timely delivery.",
+                "Managed financial responsibilities, including staff payments and fund disbursement."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "02/2018 – 04/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Junior Software Developer",
+            "subtitle": "Rielladirect Limited",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Provided IT support and managed front-end and back-end development for the company's websites.",
+                "Uploaded products, added SKUs, and managed variable pricing on the OpenCart shopfront website.",
+                "Managed the foodcourt subdomain, facilitating online ordering and enhancing user experience.",
+                "Administered the backend, including user management, order processing, and database maintenance.",
+                "Developed and executed strategies for website performance optimization, resulting in faster load times and improved user engagement."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "02/2016 – 11/2017"
         }
     ]
 }

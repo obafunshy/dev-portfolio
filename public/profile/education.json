@@ -1,19 +1,37 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Apr 2024 - June 2024",
+            "cardTitle": "Skills Bootcamp in Cloud Computing & Data Engineering",
+            "cardSubtitle":"The Growth Company"
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
+            "title": "Jun 2017 - December 2017",
+            "cardTitle": "Full Stack Web Development: Web From Zero with PHP(Bootcamp)",
+            "cardSubtitle":"Udemy, Duhan Gokkaya"
+        },
+        {
+            "title": "Jun 2021 - December 2021",
+            "cardTitle": "The Complete Web Developer in 2023: Zero to Mastery, 2021",
+            "cardSubtitle":"Udemy, Andrei Neagoie",
             "cardDetailedText": "Marks - 95%"
+        },
+        {
+            "title": "Sept 2021-Sept 2022",
+            "cardTitle": "MSc Petroleum and Gas Engineering",
+            "cardSubtitle":"The University of Salford",
+            "cardDetailedText": "Merit"
+        },
+        {
+            "title": "Sept 2017 - Feb 2019",
+            "cardTitle": "Oil and Gas Engineering and Technology",
+            "cardSubtitle":"Kharkiv Polytechnic, Institute, National Technical University, Kharkiv. Ukraine",
+            "cardDetailedText": "Hons"
+        },
+        {
+            "title": "Feb 2008-Mar 2013",
+            "cardTitle": "Chemical Engineering",
+            "cardSubtitle":"Obafemi Awolowo University, Nigeria"
         }
     ]
 }
